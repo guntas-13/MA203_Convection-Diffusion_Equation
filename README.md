@@ -4,6 +4,9 @@ Numerical Modelling of Oil Spillage over Water Surface Using Convection-Diffusio
 ## **POSTER PRESENTATION**
 ![Poster](A1POSTER-01.png)
 
+## **Simulation**
+![Poster](TV.gif)
+
 ## **The Motivation**
 The idea for the analysis on the so-called "Convection-Diffusion Equation" *(Where its usually Advection that happens)*, popped out from a random internet search for topics to be taken up for numerical analysis.
 I would consider it to be a feat that we could explore domains from Materials Science Engineering to Chemical Engineering. Understanding concepts like Control Volumes and Control Systems and how our naive high school analysis of such systems was backed up by such fundamental theorems like Reynold's Transport Theorem (RTT) that account for the realisation of any such scenario.
